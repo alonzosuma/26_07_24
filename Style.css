@@ -1,0 +1,17 @@
+body{
+    background-color: khaki;
+}
+
+.Saludo1{
+    margin-top: 100px;
+    margin-left: 450px;
+}
+.Saludo2{
+    margin-top: auto;
+    margin-left: 150px;
+}
+
+.Contenido{
+    margin-top: 20px;
+    margin-left: 410px;
+}
